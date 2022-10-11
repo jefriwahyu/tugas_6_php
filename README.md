@@ -1,6 +1,6 @@
 # Tugas 6 PHP
 
-1. Membuat <b>Jawaban Soal Matematika Menggunakan PHP</b>
+1. Membuat <b>Jawaban Soal Matematika Menggunakan PHP.</b>
 
 <b>Output in browser : </b>
 
